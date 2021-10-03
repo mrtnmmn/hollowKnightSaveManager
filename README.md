@@ -1,7 +1,7 @@
 # hollowKnightSaveManager
 This is the first version of the Hollow Knight Save Manager, ill try to update it and create a fresher looking app rather than this 2010 style app
 ## How to download
-Download the directorycalled HollowKnightSaveManager, then run the .jar file to open the app
+Click the green "code" button and download the app, then run the .jar file to open the app
 ## How to use it 
 ### How to set the saves directory
 Go to your Hollow Knight save directory (is usually something like this *C:\Users\user\AppData\LocalLow\Team Cherry\Hollow Knight*), copy the rute and paste it into the box "Select a directory", then hit save.
