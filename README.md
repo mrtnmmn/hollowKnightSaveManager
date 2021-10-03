@@ -14,4 +14,4 @@ Select a file from the list, select the user where you want to copy it and hit t
 Select a file from the list, then hit the delete button.
 ### How to change a save name 
 Select a file from the list, change the name in the box and hit *change save name*
-#Thanks for downloading
+# Thanks for downloading
